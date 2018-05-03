@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Healing Lotus</string>
+    <string name="name">Carla Almeida</string>
+    <string name="title">Licensed Massage Therapist (LMT)</string>
+    <string name="servicesColumn1">Neuromuscular\nDeep Tissue\nTrigger Point</string>
+    <string name="serviceColumn2">Swedish\nMyofascial\nPrenatal</string>
+    <string name="houseCall">*House Calls Service Available*</string>
+    <string name="schedule">Schedule your next massage!\nCall or E-Mail:</string>
+    <string name="phoneNumber">123-456-7890</string>
+    <string name="email">healinglotusblossom@gmail.com</string>
+</resources>
